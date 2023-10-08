@@ -27,7 +27,7 @@ Since React - and the other libraries we'll use - are libraries for JavaScript, 
 - A modern text editor that understands JavaScript and React. We recommend Visual Studio Code but others such as Web Storm and Atom are good choises.
 - [NodeJS and npm](https://nodejs.org/en/) installed on your machine. **You should have the latest LTS release of NodeJS or later, which (when writing this) is 10.13.0 of node and 6.4.1 of npm. Use `node -v` and `npm -v` to check your version.**
 
-## How to get started
+## How to get started (Easy steps to follow)
 
 - Start by cloning this repository into a folder on your computer. If you've never used git before, you can alternatively use the the "Download ZIP" button to the right.
 - Although you have this `README.md` file on your computer it's easier to read it on GitHub, so we recommend you keep this page open with the exercise tasks.
